@@ -1,0 +1,3 @@
+/home/kali/projects/top_system_test/cmake-build-debug/CMakeFiles/top_system_test.dir
+/home/kali/projects/top_system_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kali/projects/top_system_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

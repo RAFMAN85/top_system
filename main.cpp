@@ -56,14 +56,5 @@ int main() {
         }
     }
 
-
-    //sircle.x=200;
-    //sircle.y=200;
-    //sircle.radius=100;
-    //sircle(400,400,150);
-    //Sircle::sircle(sircle.x,sircle.y, sircle.radius);
-    //Rectangle::rectangle(400,400,200,200);
-    //Multi_shape::multy_shape(400, 400, 80,5);
-
     return 0;
 }

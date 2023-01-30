@@ -5,7 +5,6 @@ class Window_x_y{
 public:
     unsigned int x;
     unsigned int y;
-
 };
 
 class Sircle : public Window_x_y{

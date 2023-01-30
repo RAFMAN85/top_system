@@ -1,0 +1,17 @@
+Данная программа использует графическую библиотеку SFML. Документацию к ней можно найти тут: https://www.sfml-dev.org/index.php
+Программа была написана на ОС Kali Linux.
+Если программа не будет работать, необходимо выполнить команду sudo apt install libsfml-dev.
+Если ваш менеджер пакетов не поддерживает данную библиотеку, необходимо установить следующие библиотеки:
+freetype
+x11
+xcursor
+xrandr
+udev
+opengl
+flac
+ogg
+vorbis
+vorbisenc
+vorbisfile
+openal
+pthread
